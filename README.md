@@ -21,8 +21,8 @@ GCC: gcc (Ubuntu 7.5.0-3ubuntu118.04) 7.5.0
 PyTorch: 1.4.0
 
 ==Dependecy==
+(Name/Version/BuildChannel)
 
-Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main  
 absl-py                   0.9.0                    pypi_0    pypi
 attrs                     19.3.0                     py_0    conda-forge
