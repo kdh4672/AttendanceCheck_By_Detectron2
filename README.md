@@ -23,7 +23,7 @@ PyTorch: 1.4.0
 ==Dependecy==
 (Name/Version/BuildChannel)
 
-_libgcc_mutex             0.1                        main  
+_libgcc_mutex/0.1/main  
 absl-py                   0.9.0                    pypi_0    pypi
 attrs                     19.3.0                     py_0    conda-forge
 backcall                  0.1.0                      py_0    conda-forge
