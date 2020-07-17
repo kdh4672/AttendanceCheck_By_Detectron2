@@ -1,7 +1,10 @@
 # AttendanceCheck_By_Detectron2
 
 test result video : https://www.youtube.com/watch?v=GfHGqiB_RqE
-
+video cut 1 
+![ac](https://user-images.githubusercontent.com/54311546/87794936-4eb4d900-c882-11ea-958a-781276f1c558.PNG)
+video cut 2
+![ac2](https://user-images.githubusercontent.com/54311546/87794943-53798d00-c882-11ea-900d-79809a39ae02.PNG)
 You should first install Detectron2 tool : https://github.com/facebookresearch/detectron2
 
 Second, Download my test.py , test_videos, model_weight at releases
@@ -25,6 +28,7 @@ PyTorch: 1.4.0
 
 _libgcc_mutex/0.1/main
 absl-py/0.9.0/pypi_0/pypi
+
 attrs/19.3.0/py_0/conda-forge
 backcall/0.1.0/py_0/conda-forge
 blas/1.0/mkl/
