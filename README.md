@@ -5,6 +5,8 @@ video cut 1
 ![ac](https://user-images.githubusercontent.com/54311546/87794936-4eb4d900-c882-11ea-958a-781276f1c558.PNG)
 video cut 2
 ![ac2](https://user-images.githubusercontent.com/54311546/87794943-53798d00-c882-11ea-900d-79809a39ae02.PNG)
+
+## How to make it
 You should first install Detectron2 tool : https://github.com/facebookresearch/detectron2
 
 Second, Download my test.py , test_videos, model_weight at releases
