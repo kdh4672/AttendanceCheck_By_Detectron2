@@ -16,6 +16,7 @@ Second, Download my test.py , test_videos, model_weight at releases
 Finally just implement test.py
 
 
+
 ==My development environment==
 
 sys.platform: linux
@@ -26,6 +27,10 @@ NVCC: Cuda compilation tools, release 10.1, V10.1.105
 GPU 0: GeForce GTX 1660
 GCC: gcc (Ubuntu 7.5.0-3ubuntu118.04) 7.5.0
 PyTorch: 1.4.0
+
+
+
+
 
 ==Dependecy==
 (Name/Version/BuildChannel)
